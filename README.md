@@ -2,6 +2,8 @@
 ## Service Groups
 ### Compute
 * EC2
+Amazon Elastic Compute Cloud
+
 * EC2 Container Service
 * Lightsail
 * Elastic Beanstalk
@@ -22,7 +24,17 @@
 * S3
 * EFS
 * Glacier
+* Storage Gateway
 
-```
-sudo install apt-get ssh
-```
+
+### Database
+* RDS
+* DynamoDB
+* ElasticCache
+* Redshift
+
+### Artifical Intelligence
+* Lex
+* Polly
+* Rekognition
+* Machine Learning
