@@ -1,18 +1,25 @@
 # Amazon Web Service
-## 正確インスタンス選択注意項目
-AWSインスタンスを選択する際に、以下の質問を回答してください
-* プロセシングスレッド数
-* 各スレッドのスピード
-* グラフィクすス処理有無
-* ディクススループット
-* ディクスレイテンシ
-* ネットワークスループット
-* ネットワークレイテンシ
-* インスタンス可用性
-* インスタンタイプ
-* ゾーン
-* 横スケール有無
-* フレームワーク
-* 価格
+## Service Groups
+### Compute
+* EC2
+* EC2 Container Service
+* Lightsail
+* Elastic Beanstalk
+* Lambda
+* Batch
 
-### プロセシングスレッド数
+### Analytics
+* Athena
+* EMR
+* CloudSearch
+* ElasticSearch Service
+* Kinesis
+* Data Pipeline
+* QuickSight
+
+
+### Storage
+* S3
+* EFS
+* Glacier
+
