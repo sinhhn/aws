@@ -2,7 +2,8 @@
 ## Service Groups
 ### Compute
 * EC2
-Amazon Elastic Compute Cloud,
+Amazon Elastic Compute Cloud(``Amazon EC2``) provides scalable computing capacity in the AWS
+
 
 * EC2 Container Service
 * Lightsail
