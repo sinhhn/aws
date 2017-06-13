@@ -3,7 +3,7 @@
 ### Compute
 * EC2
 
-Amazon Elastic Compute Cloud(``Amazon EC2``) provides scalable computing capacity in the AWS
+  Amazon Elastic Compute Cloud(``Amazon EC2``) provides scalable computing capacity in the AWS
 
 
 * EC2 Container Service
