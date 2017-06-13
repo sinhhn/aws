@@ -23,3 +23,6 @@
 * EFS
 * Glacier
 
+```
+sudo install apt-get ssh
+```
