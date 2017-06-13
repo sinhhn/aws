@@ -4,7 +4,9 @@
 * EC2
 
   ** Elastic Compute Cloud
+  
   ** Using EC2 eliminates invest in hardware
+
   ** Faster in deploy
 
   
