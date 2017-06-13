@@ -2,6 +2,7 @@
 ## Service Groups
 ### Compute
 * EC2
+
 Amazon Elastic Compute Cloud(``Amazon EC2``) provides scalable computing capacity in the AWS
 
 
