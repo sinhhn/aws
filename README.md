@@ -1,11 +1,18 @@
 # Amazon Web Service
 ## Service Groups
 ### Compute
-* EC2
-  * Elastic Compute Cloud
-  * Using EC2 eliminates invest in hardware
-  * Faster in deploy
+#### EC2
+* What is Amazon EC2
+  * Elastic Compute Cloud.
+  * Using EC2 eliminates invest in hardware.
+  * Faster in deploy.
+  * Easy to scale (up, down).
 
+* Features of EC2
+ * Virtual computing environment (``instance``).
+ * Preconfigured for instances (``AMIs``).
+ * Vaiours configuration of CPU, Memory, storage, networking for an instance known as instance type.
+ * Secure login info by using key pair.
   
 
 
