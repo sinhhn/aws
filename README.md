@@ -9,10 +9,10 @@
   * Easy to scale (up, down).
 
 * Features of EC2
- * Virtual computing environment (``instance``).
- * Preconfigured for instances (``AMIs``).
- * Vaiours configuration of CPU, Memory, storage, networking for an instance known as instance type.
- * Secure login info by using key pair.
+  * Virtual computing environment (``instance``).
+  * Preconfigured for instances (``AMIs``).
+  * Vaiours configuration of CPU, Memory, storage, networking for an instance known as instance type.
+  * Secure login info by using key pair.
   
 
 
