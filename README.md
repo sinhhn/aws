@@ -28,8 +28,9 @@
 
 #### EC2 Container Service
 * What is Amazon EC2 Container Service?
-  Amazon ECS is a highly scalable, fast, container management.service that make it easy to run, stop, and manage Docker containers on a cluster of Amazone EC2
-
+  Amazon ECS is a highly scalable, fast, container management service that make it easy to run, stop, and manage Docker containers on a cluster of Amazone EC2
+* Features of ECS
+![ECS](http://docs.aws.amazon.com/AmazonECS/latest/developerguide/images/overview.png)
 
 
 #### Lightsail
