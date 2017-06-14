@@ -11,9 +11,10 @@
 * Features of EC2
   * Virtual computing environment (``instance``).
   * Preconfigured for instances (``AMIs``).
-  * Vaiours configuration of CPU, Memory, storage, networking for an instance known as instance type.
+  * Vaiours configuration of CPU, Memory, storage, networking for an instance known as instance types.
   * Secure login info by using key pair.
-  
+  * Storage volumes for temporary data that is deleted when you terminate your instance
+  * Persistent storage volumes for your data using [Amazon Elastic Block Store](https://goo.gl/zI7bfv)
 
 
 * EC2 Container Service
